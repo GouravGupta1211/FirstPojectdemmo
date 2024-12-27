@@ -1,3 +1,3 @@
 # FirstPojectdemmo
-This is  demo Project
+This is first demo Repo
 Created by GG
